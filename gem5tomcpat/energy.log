@@ -1,0 +1,27 @@
+Reading simulation time from: /home/quan/gem5tomcpat/fft/1.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 63.232953
+energy is 194075.654308 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/2.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 0.034298
+energy is 105.268005 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/3.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 71.600322
+energy is 219756.925488 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/4.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 4.958861
+energy is 15219.820482 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/5.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 91.438995
+energy is 280646.117917 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/6.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 2.119989
+energy is 6506.706279 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/7.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 17.179806
+energy is 52728.552632 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/8.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 0.099996
+energy is 306.909423 mJ
+Reading simulation time from: /home/quan/gem5tomcpat/fft/9.txt
+leakage: 0.108687, dynamic: 2.960530 and runtime: 2.759983
+energy is 8470.986743 mJ

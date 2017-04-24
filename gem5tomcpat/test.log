@@ -1,0 +1,7 @@
+> /home/quan/GEM5_MCPAT/gem5tomcpat/GEM5ToMcPAT.py(2)<module>()
+-> from optparse import OptionParser
+(Pdb) Uncaught exception. Entering post mortem debugging
+Running 'cont' or 'step' will restart the program
+> /usr/lib64/python2.7/cmd.py(130)cmdloop()
+-> line = raw_input(self.prompt)
+(Pdb) 
